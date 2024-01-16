@@ -13,7 +13,7 @@ I'm both a Trojan and a Bruin!
 I graduated with a B.A in English and Professional Writing from UCLA (2022)
 
 <img src="https://github.com/rsoetirto/rsoetirto/assets/109045573/174c6d01-e2da-4819-8418-5c588d61a041" width="250" heigh="400" />
-
+</br>
 <br> 
 
 💬 I was a journalist before pursuing analytics. You can find my bylines at mainstream news platforms such as NBC News, Today.com, USC Viterbi, and The Nation.
