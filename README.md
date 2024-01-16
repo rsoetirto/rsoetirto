@@ -1,5 +1,6 @@
 ### Hi there 👋 
 ### My name is Rania Soetirto, welcome to my GitHub!
+---
 
 M.S. Business Analytics candidate at USC (2024)
 
