@@ -18,7 +18,7 @@ I graduated with a B.A in English and Professional Writing from UCLA (2022)
 </br>
 <br> 
 
-💬 I was a journalist before pursuing analytics. You can find my bylines at mainstream news platforms such as NBC News, Today.com, USC Viterbi, and The Nation.
+💬 I was a journalist before pursuing analytics. You can find my bylines at mainstream news platforms such as NBC News, Today.com, USC Viterbi, and The Nation. 
 
 <br> 
 
