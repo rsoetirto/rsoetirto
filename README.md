@@ -2,6 +2,7 @@
 ### My name is Rania Soetirto, welcome to my GitHub!
 
 📫 How to reach me: 
+* Email: raniasoetirto@gmail.com
 * LinkedIn: https://www.linkedin.com/in/raniasoetirto/
 * Twitter: https://twitter.com/raniasoetirto
 
