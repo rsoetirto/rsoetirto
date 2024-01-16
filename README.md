@@ -6,7 +6,7 @@ I started coding last year (2023), here is my coding journey.
 
 <br>
 
-**Fun facts about me:**
+🍀 **Fun facts about me:**
 
 I'm both a Trojan and a Bruin!
 
