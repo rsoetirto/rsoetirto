@@ -1,6 +1,13 @@
 ### Hi there 👋 
 ### My name is Rania Soetirto, welcome to my GitHub!
 
+M.S. Business Analytics candidate at USC (2024)
+B.A English and Professional Writing from UCLA (2022)
+
+![image](https://github.com/rsoetirto/rsoetirto/assets/109045573/62da2cfe-e0e9-446a-bae0-ce5bc690359c)
+
+
+
 📫 How to reach me: 
 * Email: raniasoetirto@gmail.com
 * LinkedIn: https://www.linkedin.com/in/raniasoetirto/
