@@ -4,7 +4,7 @@
 🌻 **About me:**
 <br>
 
-I'm a current M.S. Business Analytics candidate at USC (2024). I'm interested in the interdisciplinary nature of data-driven storytelling across media, tech, and business. 
+I'm a current M.S. Business Analytics candidate at USC. I'm interested in the interdisciplinary nature of data-driven storytelling across media, tech, and business. 
 
 Armed with a bachelor's degree in English and and previous work experience in TV and broadcast, my unique background reflects my fervor for synthesizing **communication** and **data**, the **humanities** and the **sciences**, as insperable parts to generate actionable insights. 
 
