@@ -1,8 +1,10 @@
 ### My name is Rania Soetirto. Welcome to my GitHub! 👋
 ---
-I'm a current M.S. Business Analytics candidate at USC (2024)
 
-I started coding last year (2023), follow my coding journey here! I code in R, SQL, and Python. 
+**ABOUT ME:**
+I'm a current M.S. Business Analytics candidate at USC (2024). I'm interested in the interdisciplinary nature of data-driven storytelling across media, tech, and business. Armed with a bachelor's degree in English and and previous work experience in TV media and broadcast, my unique academic background reflects my fervor for synthesizing communication and data to generate actionable and understandable insights. 
+
+Follow my coding journey here! I code in R, SQL, and Python. 
 
 Please don't hesitate to reach out for any collaborations or just to say hi.  
 
