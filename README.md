@@ -1,5 +1,9 @@
 ### Hi there 👋 
-### My name is Rania, welcome to my GitHub!
+### My name is Rania Soetirto, welcome to my GitHub!
+
+📫 How to reach me: 
+* LinkedIn: https://www.linkedin.com/in/raniasoetirto/
+* Twitter: https://twitter.com/raniasoetirto
 
 <!--
 **rsoetirto/rsoetirto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
