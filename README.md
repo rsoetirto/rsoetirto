@@ -8,7 +8,7 @@ I'm a current M.S. Business Analytics candidate at USC (2024). I'm interested in
 
 Armed with a bachelor's degree in English and and previous work experience in TV and broadcast, my unique background reflects my fervor for synthesizing **communication** and **data**, the **humanities** and the **sciences**, as insperable parts to generate actionable insights. 
 
-Follow my coding journey here! I code in R, SQL, and Python. 
+Follow my coding journey here! I code in **R**, **SQL**, and **Python**. 
 
 Please don't hesitate to reach out for any collaborations or just to say hi.  
 
@@ -20,7 +20,7 @@ I'm both a Trojan and a Bruin!
 
 I graduated with a B.A in English and Professional Writing from UCLA (2022)
 
-<img src="https://github.com/rsoetirto/rsoetirto/assets/109045573/174c6d01-e2da-4819-8418-5c588d61a041" width="450" heigh="450" />
+<img src="https://github.com/rsoetirto/rsoetirto/assets/109045573/174c6d01-e2da-4819-8418-5c588d61a041" width="550" heigh="550" />
 </br>
 <br> 
 
