@@ -4,6 +4,7 @@ I'm a current M.S. Business Analytics candidate at USC (2024)
 
 I just started my coding journey last year (2023), here is my coding journey. 
 
+<br>
 
 **Fun facts about me:**
 
