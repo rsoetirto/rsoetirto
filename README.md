@@ -20,7 +20,7 @@ I graduated with a B.A in English and Professional Writing from UCLA (2022)
 
 <br> 
 
-📫 How to reach me: 
+📫 **How to reach me: **
 * Email: raniasoetirto@gmail.com
 * LinkedIn: https://www.linkedin.com/in/raniasoetirto/
 * Twitter: https://twitter.com/raniasoetirto
