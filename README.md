@@ -4,9 +4,10 @@ I'm a current M.S. Business Analytics candidate at USC (2024)
 
 I just started my coding journey last year (2023), here is my coding journey. 
 
+
 **Fun facts about me:**
 
-I'm both a Trojan and a Bruin 
+I'm both a Trojan and a Bruin!
 
 I graduated with a B.A in English and Professional Writing from UCLA (2022)
 
