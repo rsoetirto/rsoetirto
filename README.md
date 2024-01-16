@@ -1,9 +1,14 @@
 ### My name is Rania Soetirto. Welcome to my GitHub! 👋
 ---
+I'm a current M.S. Business Analytics candidate at USC (2024)
 
-M.S. Business Analytics candidate at USC (2024)
+I just started my coding journey last year (2023), here is my coding journey. 
 
-B.A English and Professional Writing from UCLA (2022)
+**Fun facts about me:**
+
+I'm both a Trojan and a Bruin 
+
+I graduated with a B.A in English and Professional Writing from UCLA (2022)
 
 <img src="https://github.com/rsoetirto/rsoetirto/assets/109045573/174c6d01-e2da-4819-8418-5c588d61a041" width="250" heigh="400" />
 
